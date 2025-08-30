@@ -1,0 +1,14 @@
+{
+  "appId": "com.taskease.app",
+  "appName": "TaskEase",
+  "webDir": "out",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_icon",
+      "iconColor": "#4f46e5"
+    }
+  }
+}

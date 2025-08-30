@@ -1,0 +1,32 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp/
+.pnp.js
+
+# Next.js
+.next/
+out/
+
+# Capacitor / Android
+android/app/build/
+android/build/
+android/.gradle/
+# android/gradle/ (usually committed, but can be ignored if you prefer)
+android/local.properties
+*.apk
+*.aab
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# PWA (if you have other specific generated files)
+# public/sw.js (if always regenerated and you don't customize it)
+# public/workbox-*.js (if always regenerated)
+        
